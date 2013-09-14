@@ -1,0 +1,9 @@
+MEM_LOAD_UOPS_MISC_RETIRED.LLC_MISS_PS	02D4	precise event 
+MEM_LOAD_UOPS_MISC_RETIRED.LLC_MISS	02D4	non precise event 
+event code is the same. depending on how to config control register to use either one of them.
+
+INST_RETIRED.ANY_P	00C0    fixed counter
+INST_RETIRED.ALL	xxxx	general counter
+INST_RETIRED.PREC_DIST	01C0	PEBS
+
+CPU_CLK_UNHALTED.THREAD_P	003C	

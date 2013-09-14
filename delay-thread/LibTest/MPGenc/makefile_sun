@@ -1,0 +1,59 @@
+HEADERS =  config global mpeg2enc vlc
+SRC =  conform fdctref puthdr readpic stats putmpg idct putpic transfrm \
+putseq motion mpeg2enc putvlc writepic predict quantize \
+putbits ratectl
+
+TARGET = mpeg2enc
+
+# Use the first one if no threading is needed
+# The second USERLIBS is for thread support
+
+#USERLIBS = -lm
+USERLIBS = -lm -lpthread
+
+# INT_IDCT is for Integer IDCT, gives better performance. Use -DINT_IDCT to 
+# enable. QUIET suppresses all standard outputs, use -DQUIET to enable. For 
+# thread support, use the 2nd USERFLAGS and enter the desired number of threads.
+
+USE_THREADS = -DLTHREAD -DNUM_THREADS=2
+USE_INT_DCT = -DINT_DCT -DORIGINAL_IDCT=1 -DMATRIX_IDCT=0 -DINTEL_FAST_DCT=0
+
+USERFLAGS = $(USE_THREADS) $(USE_INT_DCT) -DQUIET
+
+# To enable SSE2, uncomment the following line. Only available for Intel icc
+USE_SSE2 = -use_msasm -DSSE2
+
+# Uncomment USE_PENTIUM_4 if you are using this processor
+# Can also profile the code by using USE_GPROF
+
+USE_PENTIUM_4 = -vec- -march=pentium4 -mcpu=pentium4 
+#USE_GPROF = -p
+
+LIBDIR = /usr/lib
+
+# Choose the appropriate compiler gcc or Intel icc
+
+CC = /opt/SUNWspro60/bin/cc
+LD = /opt/SUNWspro60/bin/cc       # Using GCC as the compiler for now
+OPTIMIZE = -xtarget=ultra -xarch=v9 -xO4 #-Wall
+
+#LD = /opt/intel_cc_80/bin/icc       # Using GCC as the compiler for now
+#CC = /opt/intel_cc_80/bin/icc
+#OPTIMIZE = $(USE_SSE2) $(USE_PENTIUM_4) -DUSE_ICC -g -O3 #-Wall
+
+STATLINK = -xarch=v9 #-dn # Option to force static linkage
+
+LIBS = $(USERLIBS)
+CFLAGS =$(USE_GPROF) $(OPTIMIZE) $(USERFLAGS)
+OBJS = $(SRC:%=obj/%.o)
+
+execs/$(TARGET).out: $(OBJS)
+	$(LD) $(USE_GPROF) $(STATLINK) $(USERFLAGS) -o execs/$(TARGET) $(OBJS) $(LIBS)
+
+$(OBJS): $(HEADERS:%=src/%.h) $(SRC:%=src/%.c)
+	$(CC) -o $@ $(CFLAGS) -c $(*:obj/%=src/%.c)
+
+clean:
+	rm -f obj/*.o execs/$(TARGET)
+
+

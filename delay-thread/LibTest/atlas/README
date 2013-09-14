@@ -1,0 +1,4 @@
+opt -load=/home/kula85/Research/llvm-build/lib/LLVMDelayThread.so -loop-count-insertion lude2.s -S -o lude2.1.s
+
+
+#lude3.c is for clapack instead of atlas

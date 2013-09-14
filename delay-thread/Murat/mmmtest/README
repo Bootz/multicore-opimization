@@ -1,0 +1,9 @@
+mmm.c :
+TCOND mean time condition;
+TIME12 means time interval between thread1 and thread2
+TIME23
+TIME34
+
+buildtnt.sh: compile multithread version of Matrix mulplication.(all threads start at the same time)
+buildbnc.sh: compile single-thread version of Matrix mulplication.
+compiletnt.sh: compile multithread version of Matrix mulplication. (some thread has delayed start)

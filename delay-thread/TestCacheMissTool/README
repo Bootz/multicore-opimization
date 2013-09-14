@@ -1,0 +1,6 @@
+test.c is for vtune
+test2.c is for x61-papi
+test3.c is for i7-2600k-papi
+
+gdb --batch -x test3.gdb test3 | grep '1 Thread'
+

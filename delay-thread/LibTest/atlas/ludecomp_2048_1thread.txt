@@ -1,0 +1,293 @@
+#ThreadID	Time(10ms)	Missrate	Directory	         Filename	LineNum	Iteration	PeakOrBottom(1 is peak)
+0	0	0.000000			0	0
+0	10	0.023511	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	4929
+0	20	0.234761	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	9899
+0	30	0.250633	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	14846
+0	40	0.251415	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	19783
+0	50	0.268180	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	24711	1
+0	60	0.261261	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	29723
+0	70	0.254611	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	18	0
+0	80	0.285306	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	39706	1
+0	90	0.271765	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	44755
+0	100	0.241848	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	49736	0
+0	110	0.245747	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	54750
+0	120	0.261581	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	59723	1
+0	130	0.241588	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	64757	0
+0	140	0.252817	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	69751
+0	150	0.257116	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	74785	1
+0	160	0.252767	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	79785
+0	170	0.237081	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	84850	0
+0	180	0.256601	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	89810	1
+0	190	0.246029	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	94856
+0	200	0.242110	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	99840	0
+0	210	0.256166	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	104876
+0	220	0.257980	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	109859	1
+0	230	0.245384	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	114930	0
+0	240	0.271215	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	119964	1
+0	250	0.263203	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	125021
+0	260	0.246388	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	130060	0
+0	270	0.252713	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	135105	1
+0	280	0.240226	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	140171
+0	290	0.229030	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	145188
+0	300	0.227181	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	150237	0
+0	310	0.235990	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	155296	1
+0	320	0.231074	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	160402	0
+0	330	0.260531	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	165515
+0	340	0.276937	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	170599	1
+0	350	0.254387	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	175736
+0	360	0.245755	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	180734	0
+0	370	0.259574	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	185884	1
+0	380	0.255804	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	190988
+0	390	0.249480	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	196067	0
+0	400	0.252254	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	201222	1
+0	410	0.243433	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	206313	0
+0	420	0.247650	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	211449
+0	430	0.262554	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	216622	1
+0	440	0.252473	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	221766
+0	450	0.241429	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	115	0
+0	460	0.246944	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	231975
+0	470	0.258262	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	237155	1
+0	480	0.242115	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	123	0
+0	490	0.272771	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	247541	1
+0	500	0.257746	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	252732
+0	510	0.245036	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	257880
+0	520	0.239343	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	263128	0
+0	530	0.242895	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	268301
+0	540	0.244136	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	273487
+0	550	0.260157	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	278700	1
+0	560	0.254241	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	283905
+0	570	0.245845	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	289120	0
+0	580	0.268833	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	294352	1
+0	590	0.246535	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	299619	0
+0	600	0.249094	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	304838
+0	610	0.265852	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	310058	1
+0	620	0.245488	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	315255	0
+0	630	0.248424	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	320484
+0	640	0.257662	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	325773	1
+0	650	0.251125	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	331035	0
+0	660	0.260119	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	336296
+0	670	0.271888	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	341594	1
+0	680	0.256217	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	346901
+0	690	0.256072	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	352250	0
+0	700	0.262654	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	357539	1
+0	710	0.252849	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	362837	0
+0	720	0.264588	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	368145	1
+0	730	0.260260	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	373448
+0	740	0.248172	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	378760	0
+0	750	0.264626	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	384049
+0	760	0.264648	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	389288
+0	770	0.267927	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	394429
+0	780	0.285659	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	399576	1
+0	790	0.256325	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	404705	0
+0	800	0.263440	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	409875
+0	810	0.276967	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	415105	1
+0	820	0.261848	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	420153	0
+0	830	0.280177	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	425256
+0	840	0.282917	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	430299	1
+0	850	0.252947	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	435397	0
+0	860	0.269430	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	440545
+0	870	0.277174	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	445695	1
+0	880	0.267533	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	450875	0
+0	890	0.280037	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	456038
+0	900	0.282794	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	461250	1
+0	910	0.265986	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	466442	0
+0	920	0.285376	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	471643	1
+0	930	0.264490	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	476932
+0	940	0.263461	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	482154	0
+0	950	0.286296	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	487409	1
+0	960	0.254379	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	492639	0
+0	970	0.274092	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	497935
+0	980	0.278792	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	503244	1
+0	990	0.257400	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	508564	0
+0	1000	0.280341	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	513835	1
+0	1010	0.272702	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	519118
+0	1020	0.263970	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	524438	0
+0	1030	0.293615	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	529828	1
+0	1040	0.257219	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	535135	0
+0	1050	0.273256	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	540473	1
+0	1060	0.259149	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	545612
+0	1070	0.250626	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	550959	0
+0	1080	0.286949	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	556390	1
+0	1090	0.271468	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	561741
+0	1100	0.265026	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	567203	0
+0	1110	0.292079	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	572539	1
+0	1120	0.260635	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	306	0
+0	1130	0.286812	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	583461	1
+0	1140	0.279836	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	588839
+0	1150	0.261690	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	594356	0
+0	1160	0.286720	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	599777	1
+0	1170	0.262374	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	605278	0
+0	1180	0.274160	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	610803
+0	1190	0.282130	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	616192	1
+0	1200	0.235460	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	621320	0
+0	1210	0.255355	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	626582
+0	1220	0.268125	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	632086
+0	1230	0.280306	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	637692	1
+0	1240	0.277199	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	643176
+0	1250	0.268013	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	648702	0
+0	1260	0.298251	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	654298	1
+0	1270	0.269615	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	659861	0
+0	1280	0.281187	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	665505	1
+0	1290	0.279608	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	671009
+0	1300	0.268043	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	676631	0
+0	1310	0.289662	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	682216	1
+0	1320	0.264164	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	687847	0
+0	1330	0.288589	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	693576	1
+0	1340	0.273362	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	377	0
+0	1350	0.274872	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	704842	1
+0	1360	0.261482	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	710331
+0	1370	0.257406	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	715921	0
+0	1380	0.293017	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	721720	1
+0	1390	0.248945	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	394	0
+0	1400	0.285750	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	733216	1
+0	1410	0.273908	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	738966	0
+0	1420	0.279351	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	744691
+0	1430	0.285038	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	408	1
+0	1440	0.275616	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	756319	0
+0	1450	0.295378	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	762034	1
+0	1460	0.266935	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	767906	0
+0	1470	0.298638	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	773735	1
+0	1480	0.269317	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	779598	0
+0	1490	0.293051	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	785457	1
+0	1500	0.271462	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	791248
+0	1510	0.270558	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	797125	0
+0	1520	0.282389	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	802975	1
+0	1530	0.277215	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	808884	0
+0	1540	0.287057	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	814718	1
+0	1550	0.271956	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	820632	0
+0	1560	0.296604	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	826523	1
+0	1570	0.264470	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	832523	0
+0	1580	0.288608	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	838484	1
+0	1590	0.262429	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	844478	0
+0	1600	0.281875	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	850505	1
+0	1610	0.257777	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	474	0
+0	1620	0.276686	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	862770	1
+0	1630	0.268424	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	868923	0
+0	1640	0.294331	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	875066
+0	1650	0.294579	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	881319	1
+0	1660	0.284554	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	887363	0
+0	1670	0.285661	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	893613	1
+0	1680	0.281785	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	899892
+0	1690	0.269531	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	906149
+0	1700	0.237813	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	912486
+0	1710	0.233272	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	918868	0
+0	1720	0.272297	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	925382	1
+0	1730	0.250097	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	931865	0
+0	1740	0.268567	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	938323	1
+0	1750	0.245270	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	531	0
+0	1760	0.268500	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	951131	1
+0	1770	0.261344	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	957645	0
+0	1780	0.262984	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	964104	1
+0	1790	0.259441	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	970560	0
+0	1800	0.262784	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	977097	1
+0	1810	0.259316	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	983607	0
+0	1820	0.261968	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	990136
+0	1830	0.283064	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	996769	1
+0	1840	0.254481	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1003300	0
+0	1850	0.286131	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1009938	1
+0	1860	0.244679	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1016477
+0	1870	0.241962	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1023097
+0	1880	0.227622	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1029726	0
+0	1890	0.234918	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1036441
+0	1900	0.277813	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1043139	1
+0	1910	0.259464	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1049894	0
+0	1920	0.275712	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1056581	1
+0	1930	0.264507	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1063375	0
+0	1940	0.266704	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1070140	1
+0	1950	0.264221	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1077011	0
+0	1960	0.269490	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1083799
+0	1970	0.290376	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1090669	1
+0	1980	0.271863	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1097533	0
+0	1990	0.281140	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1104421	1
+0	2000	0.265893	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1111304	0
+0	2010	0.266602	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1118253
+0	2020	0.303501	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1125242	1
+0	2030	0.280413	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1132278
+0	2040	0.278096	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1139249	0
+0	2050	0.289721	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1146255	1
+0	2060	0.271301	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1153348	0
+0	2070	0.285759	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1160415
+0	2080	0.287036	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1167520	1
+0	2090	0.284211	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1174692	0
+0	2100	0.302176	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1181828	1
+0	2110	0.293576	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1189057
+0	2120	0.277446	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1196272	0
+0	2130	0.314233	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1203519	1
+0	2140	0.296106	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1210830	0
+0	2150	0.299753	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1218185	1
+0	2160	0.296030	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1225525	0
+0	2170	0.316360	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1232829	1
+0	2180	0.296498	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1240172
+0	2190	0.292884	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1247561	0
+0	2200	0.315357	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1254862	1
+0	2210	0.300943	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1262231
+0	2220	0.295512	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1269728	0
+0	2230	0.304677	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1277089
+0	2240	0.318833	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1284550	1
+0	2250	0.295519	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1292059	0
+0	2260	0.302498	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1299561
+0	2270	0.314769	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1307138	1
+0	2280	0.314366	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1314666
+0	2290	0.305738	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1322329	0
+0	2300	0.305942	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1330043
+0	2310	0.316428	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1337787	1
+0	2320	0.312901	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1345454
+0	2330	0.302166	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1353286	0
+0	2340	0.311394	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1361125	1
+0	2350	0.309956	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1369046	0
+0	2360	0.320906	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1376925
+0	2370	0.323717	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1384989
+0	2380	0.325685	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1393029
+0	2390	0.333303	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1401235
+0	2400	0.342330	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1409409
+0	2410	0.350254	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1417708	1
+0	2420	0.325874	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1425994	0
+0	2430	0.334408	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	898	1
+0	2440	0.331436	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1442593	0
+0	2450	0.346852	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1451019	1
+0	2460	0.338266	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1459485	0
+0	2470	0.338662	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1468026
+0	2480	0.342987	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1476607
+0	2490	0.345438	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1485272	1
+0	2500	0.337794	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1494035	0
+0	2510	0.339742	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1502830	1
+0	2520	0.311247	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1511626
+0	2530	0.296339	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1520667	0
+0	2540	0.299981	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1529734	1
+0	2550	0.287960	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	993	0
+0	2560	0.308715	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	1002
+0	2570	0.325002	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1558085	1
+0	2580	0.279127	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1567940
+0	2590	0.268946	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1578127	0
+0	2600	0.283466	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1588460	1
+0	2610	0.273745	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1598867	0
+0	2620	0.278194	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	1062	1
+0	2630	0.264294	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	1073
+0	2640	0.227366	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1631394	0
+0	2650	0.227611	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1642576	1
+0	2660	0.207132	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1653952
+0	2670	0.201245	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1665523	0
+0	2680	0.214846	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1677335
+0	2690	0.221681	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1689437	1
+0	2700	0.221227	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1701692
+0	2710	0.204100	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1714213	0
+0	2720	0.207342	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1726868	1
+0	2730	0.196593	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1739920	0
+0	2740	0.200614	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1753080	1
+0	2750	0.195711	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1766556
+0	2760	0.184012	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1780508	0
+0	2770	0.196412	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1794657	1
+0	2780	0.155653	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1809315	0
+0	2790	0.178409	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1824301	1
+0	2800	0.175065	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1839681
+0	2810	0.162904	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1855576	0
+0	2820	0.197637	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1871699	1
+0	2830	0.169480	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	idamax.c	66	1404	0
+0	2840	0.190672	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1905520	1
+0	2850	0.162479	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1923382
+0	2860	0.153975	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1942345
+0	2870	0.116794	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1962792	0
+0	2880	0.233495	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	1984918	1
+0	2890	0.212006	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	2008987	0
+0	2900	0.269589	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	2034813
+0	2910	0.362114	/home/kula85/Research/clapack/testpthread/CLAPACK-3.2.1/BLAS/SRC	dger.c	159	2063194

@@ -1,0 +1,16 @@
+all: mmmseq mmmtcond mmmbase mmmelse
+
+mmmseq: mmm.c
+	gcc -O0 -g -msse2 -DSEQ -o mmmseq mmm.c -lpthread -lrt
+
+mmmtcond: mmm.c
+	gcc -O0 -g -msse2 -DTCOND -DTIME=7000 -o mmmtcond mmm.c -lpthread -lrt
+
+mmmbase: mmm.c
+	gcc -O0 -g -msse2 -DBASE -o mmmbase mmm.c -lpthread -lrt
+
+mmmelse: mmm.c
+	gcc -O0 -g -msse2 -o mmmelse mmm.c -lpthread -lrt
+
+clean:
+	rm -f mmmseq mmmtcond mmmbase mmmelse mmmthr.txt

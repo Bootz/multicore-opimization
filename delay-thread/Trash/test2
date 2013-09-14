@@ -1,0 +1,20 @@
+#! /bin/bash
+# $1 is {else,tcond,seq}
+# $2 is N of NxN matrix
+# $3 is Nthreads
+# $4 is number of times performing this test
+rm -f mmm$1plot2
+
+for (( i=0 ; i<$4 ; i++ )) ;
+do
+	echo -n $i' ' >> mmm$1plot2
+	opcontrol "--start"
+	./mmm$1 $2 $3
+	#echo come stop
+	opcontrol --shutdown
+	#echo come report
+	opreport "-x" --no-header mmm$1 >> mmm$1plot2
+	#echo come reset
+	opcontrol --reset
+done
+

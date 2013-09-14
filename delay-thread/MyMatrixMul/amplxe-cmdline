@@ -1,0 +1,1 @@
+amplxe-cl -collect "Hardware Event-based Sampling Analysis 0" -follow-child -mrte-mode=auto -target-duration-type=short -no-allow-multiple-runs -no-analyze-system -data-limit=100 -slow-frames-threshold=40 -fast-frames-threshold=100 -- /home/user/Research/MMM/mmmtcond 1024 2

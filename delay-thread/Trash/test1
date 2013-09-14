@@ -1,0 +1,20 @@
+#! /bin/bash
+# $1 is {else,tcond,seq}
+# $2 is the N of a NxN matrix
+# $i is thread_count per line. total number of threads are $ix$i 
+rm -f mmm$1plot
+
+echo -e "#Nthreads Running_time " >> mmm$1plot
+
+for (( i=2 ; i<=16 ; i )) ;
+do
+	echo -n $i' ' >> mmm$1plot
+	opcontrol "--start"
+	./mmm$1 $2 $i
+	#opcontrol --dump
+	opcontrol --shutdown
+	opreport "-x" --no-header mmm$1 >> mmm$1plot
+	opcontrol --reset
+	let i=$i*2
+done
+

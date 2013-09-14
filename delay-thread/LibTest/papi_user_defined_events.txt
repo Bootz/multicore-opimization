@@ -1,0 +1,9 @@
+#define BR_lat 5
+#define BR_miss_lat 45
+#define L1_lat 3
+#define L2_lat 13
+#define Mem_lat 450
+
+Branch_cat, PAPI_BR_INS|BR_lat|*|PAPI_BR_MSP|BR_miss_lat|*|+|PAPI_TOT_INS|/
+Mem_cat, PAPI_L1_DCA|L1_lat|*|PAPI_L2_DCA|L2_lat|*|+|PAPI_L2_DCM|Mem_lat|*|+
+
